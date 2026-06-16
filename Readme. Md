@@ -1,0 +1,13 @@
+# W1SH Bot 🤖
+
+Multi-device WhatsApp bot using Baileys.
+
+## Setup
+1. `npm i`
+2. `node index.js`
+3. Pairing code එක දාලා link කරගන්න
+
+## Commands
+`menu` - Show menu
+`ping` - Check bot
+Photo + `sticker` - Make sticker
