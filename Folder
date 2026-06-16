@@ -1,0 +1,6 @@
+W1SH/
+├── index.js
+├── package.json
+├──.gitignore
+├── README.md
+└── session/ <-- empty folder
