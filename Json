@@ -1,0 +1,17 @@
+{
+  "name": "w1sh-bot",
+  "version": "1.0.0",
+  "description": "W1SH WhatsApp Bot - Multi device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wishwapreneeth2345-max",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.17.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6"
+  }
+}
